@@ -6,14 +6,6 @@ A ROADIE é uma plataforma imersiva voltada ao upskilling e à transição profi
 
 ---
 
-## Integrantes
-
-- [Guilherme Santos Nunes](https://github.com/sannunez)
-- [Kaique Zaffarani](https://github.com/Z4ffarani)
-- [Kairo da Silva Silvestre de Carvalho](https://github.com/KairoSilvestre)
-
----
-
 ## Funcionalidades
 
 - **Experiência imersiva e intuitiva** | Interface visual inspirada no conceito de universo e constelações, projetada para orientar o usuário de forma clara, atrativa e didática ao longo da jornada profissional.
