@@ -53,6 +53,14 @@ Acesse: `http://localhost:3000`
 
 ---
 
+## Projetos acadêmicos
+
+| Entrega | Repositório |
+|---|---|
+| Global Solution · Data Science & Statistical Computing · FIAP 2025.2 | [2025-SEM2-GS-DATA-SCIENCE-AND-STATISTICAL-COMPUTING](https://github.com/Z4FFARANI-EDUCATIONAL/2025-SEM2-GS-DATA-SCIENCE-AND-STATISTICAL-COMPUTING) |
+
+---
+
 ## Tecnologias
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
